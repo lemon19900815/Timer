@@ -1,5 +1,5 @@
 # Timer
-timer wheel realize based on cplusplus
+timer wheel realize based on cplusplus(in c++11)
 
 example:
 please see main.cpp file, there is a simple example
